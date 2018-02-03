@@ -3,3 +3,5 @@
 
 # build files
 build/
+
+*.user
